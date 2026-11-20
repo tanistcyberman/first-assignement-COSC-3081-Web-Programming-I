@@ -17,6 +17,7 @@ This website explores the career, records, and legacy of Lionel Andrés Messi. I
 - **Semantic Structure:** Every page contains `<header>`, `<nav>`, `<main>`, and `<footer>`.
 - **Heading Hierarchy:** Strictly one `<h1>` per page, followed by properly ordered `<h2>` sections.
 - **Lists & Tables:** Features ordered lists (`<ol>`), unordered lists (`<ul>`), and a structured statistical `<table>` with `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, and `<th scope="...">`.
+- **Multimedia Integration:** Embedded official 2022 FIFA World Cup Final highlights using standard HTML5 `<iframe>` (allowed by Chapter 2 rules).
 - **Image Handling:** High quality images stored in the `images/` directory with descriptive `alt` attributes and verified relative file paths.
 - **W3C Validated:** Tested against the Nu HTML Checker (`validator.w3.org`) with 0 errors.
 
